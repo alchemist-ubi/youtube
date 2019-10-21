@@ -10,7 +10,7 @@ of this folders will be a number identifying the YouTube video prefix number.
 You could also find a `README.md` file inside each folder where you can find
 more useful information about each episode.
 
-## Support
+## Need Help
 
 Use these links for [Asking a question](../../issues/new) or [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
 
